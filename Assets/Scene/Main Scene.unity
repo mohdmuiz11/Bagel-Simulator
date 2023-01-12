@@ -136,6 +136,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_RootOrder
@@ -191,6 +201,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &87679626 stripped
@@ -206,10 +241,45 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 344534165633762796, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1497184072189023208, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Fence_Full (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1497184072189023208, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330506915857, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330814219995, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330822325608, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204331400903390, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204332303689300, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2273403394637121874, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
@@ -264,6 +334,16 @@ PrefabInstance:
     - target: {fileID: 2273403394637121874, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4011396124277824526, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5140400716699619661, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -341,6 +421,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_Bench (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1104652049659471007, guid: ae3c14b96abd09d42a0616d9bf768053,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae3c14b96abd09d42a0616d9bf768053, type: 3}
 --- !u!4 &105374799 stripped
@@ -356,12 +441,52 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1339443145000348064, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3090606443021607531, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4250319730503047228, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 995588906111355303, guid: fccf3be52bf44b345b712e91954b8575,
         type: 3}
+    - target: {fileID: 4679530922421689376, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389181263400194425, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6251582596013209562, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6541611552617276161, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072287118532153797, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327639180793991042, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8277707926790844126, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_RootOrder
@@ -417,10 +542,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8460833225522068578, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8769554416476290642, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8954831487844699301, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d800a4f4583b26248a0986838df623c6, type: 3}
@@ -437,6 +582,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -492,10 +652,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -512,6 +707,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -587,10 +797,45 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41435389b060aac45929f968c7e64a12, type: 3}
@@ -706,6 +951,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4531024898769120277, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -767,10 +1027,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -787,6 +1082,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -842,10 +1152,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -961,6 +1306,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 118276335559395226, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3504257289938422464, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
         type: 3}
       propertyPath: m_RootOrder
@@ -1016,10 +1366,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4272915777327984173, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4317351002369560698, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Dryer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4317351002369560698, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6577719413453733329, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c2a2d2b74e6f124a968dc5c9089af1d, type: 3}
@@ -1042,10 +1407,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7949861273153337632, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -1216,10 +1596,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7949861273153337632, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -1317,6 +1712,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1339443145000348064, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3090606443021607531, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4679530922421689376, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389181263400194425, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6251582596013209562, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6541611552617276161, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072287118532153797, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327639180793991042, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8277707926790844126, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_RootOrder
@@ -1372,10 +1807,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8460833225522068578, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8769554416476290642, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8954831487844699301, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d800a4f4583b26248a0986838df623c6, type: 3}
@@ -1396,6 +1851,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
@@ -1452,6 +1917,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &469955008 stripped
@@ -1467,10 +1957,45 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 344534165633762796, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1497184072189023208, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Fence_Full (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1497184072189023208, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330506915857, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330814219995, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330822325608, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204331400903390, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204332303689300, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2273403394637121874, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
@@ -1527,6 +2052,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4011396124277824526, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5140400716699619661, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d67be1cf908c827449ae4369c4919dc0, type: 3}
 --- !u!4 &471164281 stripped
@@ -1542,6 +2077,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -1597,10 +2147,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -1623,6 +2208,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -1698,10 +2298,45 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41435389b060aac45929f968c7e64a12, type: 3}
@@ -1903,14 +2538,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 582928759}
-  m_LocalRotation: {x: 0.11704875, y: -0.29916394, z: 0.13398227, w: 0.9374696}
-  m_LocalPosition: {x: -26.9, y: 81.3, z: 228.9}
+  m_LocalRotation: {x: 0.27701628, y: -0.27156568, z: 0.1835822, w: 0.903223}
+  m_LocalPosition: {x: -1.0124457, y: 2.9599197, z: 8.615197}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 17.435, y: -33.714, z: 10.947}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 36.879, y: -29.087, z: 13.091}
 --- !u!114 &582928762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2079,7 +2714,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &741775587
 PrefabInstance:
@@ -2180,6 +2815,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07b9db8a4c5b12449b9ee8e9fbccd558, type: 3}
+--- !u!1 &759601728 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4035716236820694583, guid: 4aff43039d3769348b02ce8eebd2f43c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1008178598876590962}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &759601730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 759601728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a4627f8e4241345814ca3ea2a94d95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bagelPrefab: {fileID: 5165818009331522134, guid: cdd396de394cf94488031654e3462b5a,
+    type: 3}
+  bagelSpawnPos: {fileID: 1928756556}
+  fireRate: 0.5
+  playerControl: {fileID: -944628639613478452, guid: c530ca799b200b144944d463efb43d8f,
+    type: 3}
 --- !u!1001 &806030743
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2187,10 +2846,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7925728883532253481, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -2294,6 +2968,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -2349,10 +3038,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -2386,8 +3110,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 852560467}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -60.628036, y: 61.961784, z: 140.44395}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -104.6, y: 93.2, z: 140.44395}
+  m_LocalScale: {x: 1.5215, y: 1.5215, z: 1.5215}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 337968190}
@@ -2443,6 +3167,7 @@ Transform:
   - {fileID: 1494656455}
   - {fileID: 1596386304}
   - {fileID: 125582631}
+  - {fileID: 945537971}
   m_Father: {fileID: 1259131882}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2545,6 +3270,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07b9db8a4c5b12449b9ee8e9fbccd558, type: 3}
+--- !u!4 &945537971 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2024159481}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &958466634
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2641,6 +3372,65 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1285957705}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &990998123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 990998125}
+  - component: {fileID: 990998124}
+  m_Layer: 0
+  m_Name: Spawn Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &990998124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990998123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac93c8a48d807c34ea53d11040de1cb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  npcSPrefab:
+  - {fileID: 8968585878643700823, guid: 0afda24396805ef478acc6b5eb670bac, type: 3}
+  - {fileID: 1185932481268254630, guid: cf2eb3da1588cb245905fae784c8aa64, type: 3}
+  - {fileID: 1183098844221647977, guid: 918753bbee5ac694a9c226fadd9f0d20, type: 3}
+  - {fileID: 6861187189257019376, guid: 3f1210289fdcfc04b913d883dc33bc45, type: 3}
+  - {fileID: 1112429419443031412, guid: eb60bc38213092145aa08c494f9e4e6b, type: 3}
+  - {fileID: 2154744815896179787, guid: 5c09f407f7382664aac28a82c2ea00dd, type: 3}
+  goodSpawnRate: 0.5
+  richSpawnRate: 0.2
+  badSpawnRate: 0.3
+  xRange: 2
+  zRange: 20
+  xMidRange: 0.5
+  startDelay: 0.5
+  spawnInterval: 1
+--- !u!4 &990998125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990998123}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.3482373, y: 0.40123367, z: 0.25963306}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1013017708
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2753,10 +3543,45 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 344534165633762796, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1497184072189023208, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Fence_Full
+      objectReference: {fileID: 0}
+    - target: {fileID: 1497184072189023208, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330506915857, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330814219995, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204330822325608, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204331400903390, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731204332303689300, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2273403394637121874, guid: d67be1cf908c827449ae4369c4919dc0,
         type: 3}
@@ -2813,6 +3638,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4011396124277824526, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5140400716699619661, guid: d67be1cf908c827449ae4369c4919dc0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d67be1cf908c827449ae4369c4919dc0, type: 3}
 --- !u!4 &1017787499 stripped
@@ -2828,6 +3663,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4531024898769120277, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2904,10 +3754,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -2924,6 +3809,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3319568104760331501, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3005,10 +3905,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -3025,6 +3960,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -3100,10 +4050,45 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8554063504871386184, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
@@ -3129,6 +4114,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
@@ -3185,6 +4180,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &1055983187 stripped
@@ -3200,10 +4220,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7949861273153337632, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -3275,6 +4310,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -3350,10 +4400,45 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8554063504871386184, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
@@ -3486,6 +4571,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4531024898769120277, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3546,10 +4646,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -3572,10 +4707,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7949861273153337632, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -3647,10 +4797,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7949861273153337632, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -3849,6 +5014,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f47388aabe726647bb48baa593b77bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isforward: 0
+  speed: 0.5
 --- !u!4 &1259131882
 Transform:
   m_ObjectHideFlags: 0
@@ -3856,9 +5023,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1259131880}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.48, y: -0.1, z: 0}
+  m_LocalScale: {x: 0.037637386, y: 0.037637386, z: 0.037637386}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 962811872}
@@ -3935,6 +5102,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_Lamp
       objectReference: {fileID: 0}
+    - target: {fileID: 2067546765344138773, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707439861617905742, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7018672088805775679, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f2e7b5cff628ea42ac22c632b2d19e5, type: 3}
 --- !u!4 &1263522494 stripped
@@ -4009,6 +5191,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_Lamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2067546765344138773, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707439861617905742, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7018672088805775679, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f2e7b5cff628ea42ac22c632b2d19e5, type: 3}
@@ -4234,6 +5431,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_RootOrder
@@ -4289,6 +5496,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &1314835688 stripped
@@ -4308,6 +5540,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
@@ -4364,11 +5606,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6062285139441320297, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: fe2615a44fd66974daaa1aaf4ad787e8, type: 2}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &1329511919 stripped
@@ -4384,10 +5651,90 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 408249659358389325, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 652775056937973543, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1384975307870898543, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1449340265477593047, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516294268299824311, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587549494507357669, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4008028316811345714, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4728674715465070007, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835806386620341691, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628521975078768558, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7017995620609447066, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7413714451445413067, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7723639796384997725, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258796785151492677, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501043097236338828, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8539761585063618254, guid: 63e0a48ed294278458fa101f87f50a76,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Palm_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8539761585063618254, guid: 63e0a48ed294278458fa101f87f50a76,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9063638587199601780, guid: 63e0a48ed294278458fa101f87f50a76,
         type: 3}
@@ -4558,6 +5905,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3319568104760331501, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4633,10 +5995,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -4752,6 +6149,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -4807,10 +6219,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8554063504871386184, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
@@ -4839,12 +6286,52 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1339443145000348064, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3090606443021607531, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4250319730503047228, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 4970041250699218663, guid: fccf3be52bf44b345b712e91954b8575,
         type: 3}
+    - target: {fileID: 4679530922421689376, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389181263400194425, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6251582596013209562, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6541611552617276161, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072287118532153797, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327639180793991042, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8277707926790844126, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_RootOrder
@@ -4900,10 +6387,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8460833225522068578, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8769554416476290642, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8954831487844699301, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d800a4f4583b26248a0986838df623c6, type: 3}
@@ -4920,6 +6427,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -4995,10 +6517,40 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6832202865336469172, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
@@ -5010,6 +6562,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: fe2615a44fd66974daaa1aaf4ad787e8, type: 2}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41435389b060aac45929f968c7e64a12, type: 3}
 --- !u!4 &1500995799 stripped
@@ -5234,6 +6791,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_RootOrder
@@ -5289,6 +6856,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &1537280808 stripped
@@ -5304,6 +6896,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -5359,10 +6966,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -5379,10 +7021,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7949861273153337632, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -5471,6 +7128,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_3
       objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_RootOrder
@@ -5526,6 +7193,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &1596386304 stripped
@@ -5547,6 +7239,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -5622,16 +7329,51 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7891690959719081638, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: fe2615a44fd66974daaa1aaf4ad787e8, type: 2}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8554063504871386184, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5674,7 +7416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1b5778a72e9d0f498e39b0345839a5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _backSpeed: 100
+  _backSpeed: 2
 --- !u!4 &1632725509
 Transform:
   m_ObjectHideFlags: 0
@@ -5682,13 +7424,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1632725507}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 33.66444, y: -44.853676, z: -79.89463}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.2670416, y: -1.7881751, z: -3.007025}
+  m_LocalScale: {x: 0.037637386, y: 0.037637386, z: 0.037637386}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1679252051
 PrefabInstance:
@@ -5697,6 +7439,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 118276335559395226, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3504257289938422464, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
         type: 3}
       propertyPath: m_RootOrder
@@ -5752,10 +7499,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4272915777327984173, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4317351002369560698, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Dryer
+      objectReference: {fileID: 0}
+    - target: {fileID: 4317351002369560698, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6577719413453733329, guid: 9c2a2d2b74e6f124a968dc5c9089af1d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c2a2d2b74e6f124a968dc5c9089af1d, type: 3}
@@ -5976,6 +7738,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -6031,10 +7808,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -6051,10 +7863,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 372824089717354717, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4950543077404737683, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_Tent_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7284647274477527962, guid: 967076be8d94f0647982242fac0166e0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7925728883532253481, guid: 967076be8d94f0647982242fac0166e0,
         type: 3}
@@ -6146,17 +7973,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.0235401
+      value: 1.8287592
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.0235401
+      value: 1.8287592
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.0235401
+      value: 1.8287592
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
@@ -6166,12 +7993,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.2
+      value: -5.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1669
+      value: 2196.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff32489731ff2014c827e191e873f60d,
         type: 3}
@@ -6294,7 +8121,7 @@ GameObject:
   - component: {fileID: 1827183466}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6390,6 +8217,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_RootOrder
@@ -6443,6 +8280,31 @@ PrefabInstance:
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6520,6 +8382,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_House_Lamp (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2067546765344138773, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4707439861617905742, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7018672088805775679, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f2e7b5cff628ea42ac22c632b2d19e5, type: 3}
 --- !u!4 &1890685275 stripped
@@ -6552,8 +8429,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1916696734}
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0.000008404254}
-  m_LocalPosition: {x: -54.9, y: 6, z: -370.5}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -59.75, y: 6, z: -370.5}
+  m_LocalScale: {x: 1, y: 1.54, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1691216801}
@@ -6586,6 +8463,38 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2085349741}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1928756555
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1928756556}
+  m_Layer: 0
+  m_Name: BulletSpawnPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1928756556
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1928756555}
+  m_LocalRotation: {x: -0.000000039758376, y: -0.000000040558433, z: -0.70710737,
+    w: 0.70710623}
+  m_LocalPosition: {x: 0.049, y: -0, z: 3.713}
+  m_LocalScale: {x: 0.20682774, y: 0.20682774, z: 0.20682774}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 534846451}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1949495432 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8241013910951152780, guid: 07b9db8a4c5b12449b9ee8e9fbccd558,
@@ -6603,6 +8512,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
@@ -6659,6 +8578,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0faca65c8f14644408f4114d41941bc2, type: 3}
 --- !u!4 &1958991508 stripped
@@ -6678,6 +8622,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1695477901814818303, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994486788761849504, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
@@ -6732,6 +8686,31 @@ PrefabInstance:
     - target: {fileID: 2075135266229731141, guid: 0faca65c8f14644408f4114d41941bc2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3708905773861137089, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495959506766137182, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6280427269337924511, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6448316072748571620, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075690030086313125, guid: 0faca65c8f14644408f4114d41941bc2,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6947,6 +8926,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1649525919428021643, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2549171677687249447, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2733831723074947741, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4840052140215516641, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_RootOrder
@@ -7002,10 +8996,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5065777389168309387, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215310667293812571, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625263075731787274, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835295793002495556, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359176744016335623, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614004514055480661, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7629348358969052299, guid: b7d5a31e2b3908746b39720151582136,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d5a31e2b3908746b39720151582136, type: 3}
@@ -7020,27 +9049,42 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 852560468}
     m_Modifications:
     - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -81.52
+      value: -20.89196
       objectReference: {fileID: 0}
     - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -61.961784
       objectReference: {fileID: 0}
     - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 735.85
+      value: 595.406
       objectReference: {fileID: 0}
     - target: {fileID: 1727894036555513007, guid: 0f2e7b5cff628ea42ac22c632b2d19e5,
         type: 3}
@@ -7098,6 +9142,7 @@ GameObject:
   - component: {fileID: 2037432949}
   - component: {fileID: 2037432950}
   - component: {fileID: 2037432951}
+  - component: {fileID: 2037432952}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -7136,9 +9181,9 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.1
   far clip plane: 2000
-  field of view: 60
+  field of view: 70
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -7164,8 +9209,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037432945}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 18.9, z: 3.2}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0.61134654, z: 0.12043964}
+  m_LocalScale: {x: 0.037637386, y: 0.037637386, z: 0.037637386}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 534846451}
@@ -7330,6 +9375,38 @@ MonoBehaviour:
   cameraTransform: {fileID: 0}
   angleXLimit: 45
   angleYLimit: 45
+  rotationSpeed: 2
+--- !u!114 &2037432952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2037432945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: c530ca799b200b144944d463efb43d8f,
+    type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
 --- !u!1001 &2085349741
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7447,6 +9524,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desert_Village_Bucket
       objectReference: {fileID: 0}
+    - target: {fileID: 377291983207010727, guid: 5e22c709abb2c1d45ad476ea4b03de35,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1042505951998397213, guid: 5e22c709abb2c1d45ad476ea4b03de35,
         type: 3}
       propertyPath: m_RootOrder
@@ -7532,6 +9614,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 1339443145000348064, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3090606443021607531, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4679530922421689376, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5389181263400194425, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6251582596013209562, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6541611552617276161, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7072287118532153797, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327639180793991042, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8277707926790844126, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_RootOrder
@@ -7587,10 +9709,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8460833225522068578, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767245324751074404, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8769554416476290642, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8954831487844699301, guid: d800a4f4583b26248a0986838df623c6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d800a4f4583b26248a0986838df623c6, type: 3}
@@ -7607,6 +9749,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 852560468}
     m_Modifications:
+    - target: {fileID: 563238099602991294, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565573952108710955, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 617122044896503297, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1231993524195552161, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_RootOrder
@@ -7682,10 +9839,45 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1297773240545568658, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1715541983419458276, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
         type: 3}
       propertyPath: m_Name
       value: Desert_Village_House_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896924986970583323, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2083443954097590608, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2309558470556223478, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5836227840777762541, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8345231760428736757, guid: 41435389b060aac45929f968c7e64a12,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41435389b060aac45929f968c7e64a12, type: 3}
@@ -7819,7 +10011,22 @@ PrefabInstance:
     - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.037637386
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.037637386
+      objectReference: {fileID: 0}
+    - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.037637386
       objectReference: {fileID: 0}
     - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
         type: 3}
@@ -7844,17 +10051,17 @@ PrefabInstance:
     - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3126661346675031390, guid: 4aff43039d3769348b02ce8eebd2f43c,
         type: 3}

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class MouseLook : MonoBehaviour
 {
@@ -6,22 +7,32 @@ public class MouseLook : MonoBehaviour
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private float angleXLimit;
     [SerializeField] private float angleYLimit;
+    [SerializeField] public float rotationSpeed = 1;
+
+    private float lookX;
+    private float lookY;
 
     private float xRotation = 0f;
     private float yRotation = 0f;
 
-    // Update is called once per frame
-    void Update()
+    private void OnLook(InputValue lookValue)
     {
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+        Vector2 lookVector = lookValue.Get<Vector2>();
+
+        lookX = lookVector.x;
+        lookY = lookVector.y;
+    }
+
+    // Update is called once per frame
+    void LateUpdate()
+    {
 
         // X rotation limit
-        xRotation -= mouseY;
+        xRotation -= lookY * rotationSpeed;
         xRotation = Mathf.Clamp(xRotation, -angleXLimit, angleXLimit);
 
         // Y rotation limit
-        yRotation += mouseX;
+        yRotation += lookX * rotationSpeed;
         yRotation = Mathf.Clamp(yRotation, -angleYLimit, angleYLimit);
 
 
