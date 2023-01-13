@@ -8,6 +8,16 @@ public class PauseMenu : MonoBehaviour
 
     [SerializeField] GameObject pauseMenu;
 
+    void Update()
+    {
+        if (Input.GetButtonDown("Cancel"))
+        {
+            Pause();
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        }
+    }
+    
     public void Pause()
     {
         pauseMenu.SetActive(true);
@@ -18,6 +28,8 @@ public class PauseMenu : MonoBehaviour
     {
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
     }
 
     public void Home()
