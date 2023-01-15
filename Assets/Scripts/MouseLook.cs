@@ -4,10 +4,10 @@ using UnityEngine.InputSystem;
 public class MouseLook : MonoBehaviour
 {
     [SerializeField] private float mouseSensitivity;
-    [SerializeField] private Transform cameraTransform;
     [SerializeField] private float angleXLimit;
     [SerializeField] private float angleYLimit;
     [SerializeField] public float rotationSpeed = 1;
+    [SerializeField] private GameManager gameManager;
 
     private float lookX;
     private float lookY;
@@ -36,7 +36,10 @@ public class MouseLook : MonoBehaviour
         yRotation = Mathf.Clamp(yRotation, -angleYLimit, angleYLimit);
 
 
-        transform.localRotation = Quaternion.Euler(xRotation, yRotation, 0);
+        if (!gameManager.isPaused && !gameManager.isOver)
+            transform.localRotation = Quaternion.Euler(xRotation, yRotation, 0);
         //cameraTransform.Rotate(Vector3.up * yRotation);
+        
+        
     }
 }

@@ -2487,6 +2487,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinValue: 5
+  powerUpChance: 0.3
 --- !u!114 &-5762450658169179083
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,12 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class PauseMenu : MonoBehaviour
 {
 
     [SerializeField] GameObject pauseMenu;
+    [SerializeField] private GameManager gameManager;
+    [SerializeField] private EventSystem eventSystem;
+    [SerializeField] private Button continueButton;
+    [SerializeField] private Button mainMenuButton;
 
     void Update()
     {
@@ -20,8 +26,14 @@ public class PauseMenu : MonoBehaviour
     
     public void Pause()
     {
-        pauseMenu.SetActive(true);
-        Time.timeScale = 0f;
+        if (!gameManager.isOver) {
+            pauseMenu.SetActive(true);
+            Time.timeScale = 0f;
+            gameManager.isPaused = true;
+            eventSystem.SetSelectedGameObject(continueButton.gameObject);
+            continueButton.interactable = true;
+            mainMenuButton.interactable = true;
+        }
     }
 
     public void Resume()
@@ -30,6 +42,10 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f;
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
+        gameManager.isPaused = false;
+        eventSystem.SetSelectedGameObject(null);
+        continueButton.interactable = false;
+        mainMenuButton.interactable = false;
     }
 
     public void Home()

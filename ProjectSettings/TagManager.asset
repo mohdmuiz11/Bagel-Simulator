@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Floor
   - Bagel
+  - PowerUp
   layers:
   - Default
   - TransparentFX
