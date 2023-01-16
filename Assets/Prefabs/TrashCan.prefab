@@ -95,9 +95,10 @@ GameObject:
   - component: {fileID: 3223321187641235887}
   - component: {fileID: 9007793867874570864}
   - component: {fileID: 4815819503752836653}
+  - component: {fileID: -4108763401008045348}
   m_Layer: 0
   m_Name: TrashCan
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -145,6 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinValue: -4
+  powerUpChance: 0
 --- !u!65 &4815819503752836653
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -158,3 +160,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.3906588, y: 0.42796773, z: 0.5941721}
   m_Center: {x: 0, y: 0.21471414, z: 0}
+--- !u!114 &-4108763401008045348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112429419443031412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71358ff49ea38e8439feda44571f7b2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform bagelSpawnPos;
     [SerializeField] private float fireRate;
     [SerializeField] private InputActionAsset playerControl;
+    private AudioSource audioSource;
 
     private InputAction fireAction;
 
@@ -18,6 +19,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
+        audioSource = GetComponent<AudioSource>();
         fireAction = playerControl.FindAction("Fire");
         fireAction.performed += OnFire;
         fireAction.canceled += OnFireCancel;
@@ -28,6 +30,7 @@ public class PlayerController : MonoBehaviour
     private void OnFire(InputAction.CallbackContext context)
     {
         isFire = true;
+        audioSource.Play();
     }
 
     private void OnFireCancel(InputAction.CallbackContext context)

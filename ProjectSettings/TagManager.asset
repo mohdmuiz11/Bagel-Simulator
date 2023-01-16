@@ -7,6 +7,8 @@ TagManager:
   - Floor
   - Bagel
   - PowerUp
+  - NPC
+  - Level
   layers:
   - Default
   - TransparentFX

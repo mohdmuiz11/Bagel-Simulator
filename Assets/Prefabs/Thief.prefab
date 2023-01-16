@@ -3576,9 +3576,10 @@ GameObject:
   - component: {fileID: 4277707964992269679}
   - component: {fileID: -5452078948621993769}
   - component: {fileID: -6922558597719545254}
+  - component: {fileID: -6639844858066303769}
   m_Layer: 0
   m_Name: Thief
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3692,6 +3693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinValue: -10
+  powerUpChance: 0
 --- !u!114 &-6922558597719545254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3706,6 +3708,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isforward: 1
   speed: 1
+--- !u!114 &-6639844858066303769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2154744815896179787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71358ff49ea38e8439feda44571f7b2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2154746597939760443
 GameObject:
   m_ObjectHideFlags: 0

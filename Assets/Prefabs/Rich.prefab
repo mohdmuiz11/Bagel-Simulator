@@ -5724,9 +5724,10 @@ GameObject:
   - component: {fileID: 3256326533651182424}
   - component: {fileID: 6451114657964910565}
   - component: {fileID: 7812412835228126012}
+  - component: {fileID: 4499845362600333872}
   m_Layer: 0
   m_Name: Rich
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5855,6 +5856,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isforward: 1
   speed: 1
+--- !u!114 &4499845362600333872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8968585878643700823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71358ff49ea38e8439feda44571f7b2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8968591790674994417
 GameObject:
   m_ObjectHideFlags: 0

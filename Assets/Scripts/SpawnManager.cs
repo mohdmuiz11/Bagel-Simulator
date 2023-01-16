@@ -7,8 +7,8 @@ public class SpawnManager : MonoBehaviour
     [Header("NPC Prefabs")]
     public GameObject[] npcSPrefab;
     public float goodSpawnRate = 0.5f;
-    public float richSpawnRate = 0.2f;
-    public float badSpawnRate = 0.3f;
+    public float richSpawnRate = 0.05f;
+    public float badSpawnRate = 0.45f;
 
     [Header("Spawn settings")]
     [SerializeField] private float xRange;
@@ -19,13 +19,19 @@ public class SpawnManager : MonoBehaviour
     [SerializeField] private float spawnInterval= 2.0f;
 
     private float spawnTimer = 0.0f;
+    private LevelDifficulty levelDifficulty;
+
+    private void Start()
+    {
+        levelDifficulty = GameObject.Find("LevelManager").GetComponent<LevelDifficulty>();
+    }
 
     // Update is called once per frame
     void Update()
     {
         spawnTimer += Time.deltaTime;
 
-        if (spawnTimer >= spawnInterval)
+        if (spawnTimer >= spawnInterval / levelDifficulty.level)
         {
             spawnTimer = 0;
 
@@ -34,7 +40,7 @@ public class SpawnManager : MonoBehaviour
             if (spawnChance <= goodSpawnRate)
                 SpawnRandomNPC(Random.Range(1, 2));
             else if (spawnChance <= goodSpawnRate + badSpawnRate)
-                SpawnRandomNPC(Random.Range(3, 5));
+                SpawnRandomNPC(Random.Range(2, 6));
             else
                 SpawnRandomNPC(0);
         }

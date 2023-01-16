@@ -10,6 +10,7 @@ public class PauseMenu : MonoBehaviour
 
     [SerializeField] GameObject pauseMenu;
     [SerializeField] private GameManager gameManager;
+    [SerializeField] private PowerUpManager powerUpManager;
     [SerializeField] private EventSystem eventSystem;
     [SerializeField] private Button continueButton;
     [SerializeField] private Button mainMenuButton;
@@ -39,7 +40,10 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         pauseMenu.SetActive(false);
-        Time.timeScale = 1f;
+        if (powerUpManager.isGameTimeSlowedDown)
+            Time.timeScale = 0.5f;
+        else
+            Time.timeScale = 1f;
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
         gameManager.isPaused = false;

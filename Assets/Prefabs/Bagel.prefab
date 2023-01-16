@@ -77,6 +77,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bagelForce: 1
+  magnetRadius: 4
+  magnetForce: 5
 --- !u!1001 &7991178687055671330
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -122,22 +124,22 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.5
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.5
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}
@@ -147,7 +149,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3bc21ee201a1bc4087452d2931342d1,
         type: 3}

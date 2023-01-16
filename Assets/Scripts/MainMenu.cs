@@ -13,11 +13,25 @@ public class MainMenu : MonoBehaviour
 [SerializeField] private Button playButton;
 [SerializeField] private Button exitButton;
 [SerializeField] private Button howToBackButton;
+[SerializeField] private Button levelButton;
 
+    public GameObject levelSelector;
+    private LevelDifficulty levelDifficulty;
 
+    private void Start()
+    {
+        levelDifficulty = GameObject.Find("LevelManager").GetComponent<LevelDifficulty>(); 
+    }
     public void PlayButton()
     {
-        SceneManager.LoadScene("Main Scene");
+        levelSelector.SetActive(true);
+        eventSystem.SetSelectedGameObject(levelButton.gameObject);
+
+        // Button management
+        howToBackButton.interactable = false;
+        howToButtonButton.interactable = false;
+        playButton.interactable = false;
+        exitButton.interactable = false;
     }
 
     public void HowToButton()
@@ -48,5 +62,11 @@ public class MainMenu : MonoBehaviour
     {
         Application.Quit();
         Debug.Log("Quitted Game");
+    }
+
+    public void LevelSelector(float level)
+    {
+        levelDifficulty.level = level;
+        SceneManager.LoadScene("Main Scene");
     }
 }
