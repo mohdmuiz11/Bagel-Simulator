@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -14,47 +13,65 @@ public class PauseMenu : MonoBehaviour
     [SerializeField] private EventSystem eventSystem;
     [SerializeField] private Button continueButton;
     [SerializeField] private Button mainMenuButton;
+    [SerializeField] private InputActionAsset playerControl;
 
-    void Update()
+    private InputAction pauseAction;
+    private bool currentlyPaused;
+
+    void Awake()
     {
-        if (Input.GetButtonDown("Cancel"))
-        {
-            Pause();
-            Cursor.visible = true;
-            Cursor.lockState = CursorLockMode.None;
-        }
+        pauseAction = playerControl.FindAction("TogglePause");
+        pauseAction.performed += TogglePause;
+        pauseAction.Enable();
     }
     
-    public void Pause()
+    private void TogglePause(InputAction.CallbackContext context)
     {
-        if (!gameManager.isOver) {
-            pauseMenu.SetActive(true);
-            Time.timeScale = 0f;
-            gameManager.isPaused = true;
-            eventSystem.SetSelectedGameObject(continueButton.gameObject);
-            continueButton.interactable = true;
-            mainMenuButton.interactable = true;
+        if (!gameManager.isOver)
+        {
+            currentlyPaused = !currentlyPaused;
+            ShowMainMenu(currentlyPaused);
         }
     }
 
-    public void Resume()
+    // only for resume button
+    public void ResumeButton()
     {
-        pauseMenu.SetActive(false);
-        if (powerUpManager.isGameTimeSlowedDown)
-            Time.timeScale = 0.5f;
+        currentlyPaused = false;
+        ShowMainMenu(currentlyPaused);
+    }
+
+    private void ShowMainMenu(bool isVisible)
+    {
+        if (isVisible)
+        {
+            Time.timeScale = 0f;
+            eventSystem.SetSelectedGameObject(continueButton.gameObject);
+            Cursor.lockState = CursorLockMode.None;
+        }
         else
-            Time.timeScale = 1f;
-        Cursor.visible = false;
-        Cursor.lockState = CursorLockMode.Locked;
-        gameManager.isPaused = false;
-        eventSystem.SetSelectedGameObject(null);
-        continueButton.interactable = false;
-        mainMenuButton.interactable = false;
+        {
+            if (powerUpManager.isGameTimeSlowedDown)
+                Time.timeScale = 0.5f;
+            else
+                Time.timeScale = 1f;
+            Cursor.lockState = CursorLockMode.Locked;
+        }
+        Cursor.visible = isVisible;
+        pauseMenu.SetActive(isVisible);
+        gameManager.isPaused = isVisible;
+        continueButton.interactable = isVisible;
+        mainMenuButton.interactable = isVisible;
     }
 
     public void Home()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Main Menu");
+    }
+    private void OnDestroy()
+    {
+        pauseAction.performed -= TogglePause;
+        pauseAction.Disable();
     }
 }

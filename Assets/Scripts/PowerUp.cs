@@ -1,17 +1,12 @@
-using System.Collections;
 using UnityEngine;
 
 public class PowerUp : MonoBehaviour
 {
     [SerializeField] private PowerUpType powerUpType;
-    
-
-    private GameManager gameManager;
     private PowerUpManager powerUpManager;
 
-    private void Start()
+    void Start()
     {
-        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         powerUpManager = GameObject.Find("Power Up Manager").GetComponent<PowerUpManager>();
     }
 

@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Endgame : MonoBehaviour
@@ -10,7 +8,7 @@ public class Endgame : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            gameManager.gameEnd();
+            gameManager.GameEnd();
         }
     }
 }

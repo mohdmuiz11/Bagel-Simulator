@@ -83,85 +83,52 @@
             ]
         },
         {
-            "name": "Navigation UI",
+            "name": "Pause Menu",
             "id": "4d399e63-ad63-4aaf-a943-9277dbe9d821",
             "actions": [
                 {
-                    "name": "New action",
-                    "type": "Value",
+                    "name": "TogglePause",
+                    "type": "Button",
                     "id": "1a53621f-6fc3-4a96-b5e4-d60ba8020c6e",
-                    "expectedControlType": "Vector2",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": true
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
                 {
                     "name": "",
                     "id": "d414eed0-e30f-4d09-a58f-09c0bb0ac421",
-                    "path": "<Gamepad>/leftStick",
+                    "path": "<Gamepad>/start",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "TogglePause",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "Keyboard",
-                    "id": "64646e27-60dd-40e6-b2cc-79a05b2d1354",
-                    "path": "2DVector",
+                    "name": "",
+                    "id": "411abcbd-f757-4b82-b07e-c297e2cbcb73",
+                    "path": "<Gamepad>/buttonEast",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
-                    "isComposite": true,
+                    "action": "TogglePause",
+                    "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "up",
-                    "id": "f77a2a93-28d8-48ee-a293-f280dbf6ceaa",
-                    "path": "<Keyboard>/upArrow",
+                    "name": "",
+                    "id": "d27bde29-55e1-4ec9-9da4-390fc6bcf2a3",
+                    "path": "<Keyboard>/escape",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "TogglePause",
                     "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "down",
-                    "id": "4b5e8c6e-b75c-4ecc-8a1d-18ba5ead792b",
-                    "path": "<Keyboard>/downArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "New action",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "left",
-                    "id": "15650f39-ba4f-42a9-a12a-fd71346da7e2",
-                    "path": "<Keyboard>/leftArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "New action",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "right",
-                    "id": "9fde2d60-e94b-4938-a427-2ab195632a6f",
-                    "path": "<Keyboard>/rightArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "New action",
-                    "isComposite": false,
-                    "isPartOfComposite": true
+                    "isPartOfComposite": false
                 }
             ]
         }

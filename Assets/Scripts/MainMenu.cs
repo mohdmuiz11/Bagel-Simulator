@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -29,9 +27,7 @@ public class MainMenu : MonoBehaviour
 
         // Button management
         howToBackButton.interactable = false;
-        howToButtonButton.interactable = false;
-        playButton.interactable = false;
-        exitButton.interactable = false;
+        ManageButton(false);
     }
 
     public void HowToButton()
@@ -41,9 +37,7 @@ public class MainMenu : MonoBehaviour
 
         // Button management
         howToBackButton.interactable = true;
-        howToButtonButton.interactable = false;
-        playButton.interactable = false;
-        exitButton.interactable = false;
+        ManageButton(false);
     }
 
     public void HowToBack()
@@ -53,9 +47,14 @@ public class MainMenu : MonoBehaviour
 
         // Button management
         howToBackButton.interactable = false;
-        howToButtonButton.interactable = true;
-        playButton.interactable = true;
-        exitButton.interactable = true;
+        ManageButton(true);
+    }
+
+    private void ManageButton(bool isInteract)
+    {
+        howToButtonButton.interactable = isInteract;
+        playButton.interactable = isInteract;
+        exitButton.interactable = isInteract;
     }
 
     public void QuitButton()

@@ -77,8 +77,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bagelForce: 1
-  magnetRadius: 4
-  magnetForce: 5
+  magnetRadius: 2
+  magnetForce: 20
 --- !u!1001 &7991178687055671330
 PrefabInstance:
   m_ObjectHideFlags: 0

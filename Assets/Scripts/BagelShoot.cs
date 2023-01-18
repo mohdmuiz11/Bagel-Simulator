@@ -5,11 +5,13 @@ public class BagelShoot : MonoBehaviour
     [SerializeField] private float bagelForce;
 
     public float magnetRadius = 5f;
-    public float magnetForce = 10f;
+    public float magnetForce = 2;
     private Rigidbody rbBagel;
     private PowerUpManager powerUpManager;
 
     private bool hasTarget;
+    private bool isCurrentlyActive;
+    private Collider target;
 
     // Start is called before the first frame update
     void Start()
@@ -21,26 +23,48 @@ public class BagelShoot : MonoBehaviour
 
     private void Update()
     {
-        if (powerUpManager.foodMagnetActive)
+        if (powerUpManager.foodMagnetActive && !isCurrentlyActive)
         {
             Collider[] hitColliders = Physics.OverlapSphere(transform.position, magnetRadius);
-            foreach (Collider collider in hitColliders)
+            if (!hasTarget)
             {
-                // check if the collider is an NPC
-                if (collider.CompareTag("NPC"))
+                foreach (Collider collider in hitColliders)
                 {
-                    if (!hasTarget)
+                    // check if the collider is an NPC
+                    if (collider.CompareTag("NPC"))
                     {
-                        rbBagel.useGravity = false;
-                        rbBagel.velocity = Vector3.zero;
-                        hasTarget = true;
+                        if (!hasTarget)
+                        {
+                            EnableRbBagel(false);
+                            rbBagel.velocity = Vector3.zero;
+                            target = collider;
+                        }
                     }
-                    // apply force towards the NPC
-                    Vector3 direction = (collider.transform.position + (Vector3.up/2) - transform.position).normalized;
-                    rbBagel.AddForce(direction * magnetForce);
                 }
             }
+            if (target != null && hasTarget)
+            {
+                // apply force towards the NPC
+                Vector3 direction = (target.transform.position + (Vector3.up / 3) - transform.position).normalized;
+                transform.Translate(direction * magnetForce * Time.deltaTime);
+            }
+            else if (target == null && hasTarget)
+            {
+                EnableRbBagel(true);
+            }
         }
+        else if (isCurrentlyActive)
+        {
+            EnableRbBagel(true);
+        }
+    }
+
+    private void EnableRbBagel(bool isEnable)
+    {
+        rbBagel.useGravity = isEnable;
+        rbBagel.isKinematic = !isEnable;
+        isCurrentlyActive = !isEnable;
+        hasTarget = !isEnable;
     }
 
     private void OnCollisionEnter(Collision collision)

@@ -3971,7 +3971,7 @@ MonoBehaviour:
   bagelPrefab: {fileID: 5165818009331522134, guid: cdd396de394cf94488031654e3462b5a,
     type: 3}
   bagelSpawnPos: {fileID: 1928756556}
-  fireRate: 0.4
+  fireRate: 0.5
   playerControl: {fileID: -944628639613478452, guid: c530ca799b200b144944d463efb43d8f,
     type: 3}
 --- !u!65 &759601731
@@ -4185,7 +4185,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1077992398}
         m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: Resume
+        m_MethodName: ResumeButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5606,7 +5606,6 @@ MonoBehaviour:
   xRange: 2
   zRange: 20
   xMidRange: 0.5
-  startDelay: 0.5
   spawnInterval: 1
 --- !u!4 &990998125
 Transform:
@@ -6634,19 +6633,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1077992396}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1077992398}
-        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: Pause
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1077992396
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6703,6 +6690,8 @@ MonoBehaviour:
   eventSystem: {fileID: 1419150382}
   continueButton: {fileID: 787380593}
   mainMenuButton: {fileID: 1221323373}
+  playerControl: {fileID: -944628639613478452, guid: c530ca799b200b144944d463efb43d8f,
+    type: 3}
 --- !u!1001 &1109252071
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9027,7 +9016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 392394f5ab17e2c409e936b14ab82ef3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 1
+  level: 2
 --- !u!4 &1352915818
 Transform:
   m_ObjectHideFlags: 0

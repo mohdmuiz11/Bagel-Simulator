@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
@@ -14,8 +12,6 @@ public class SpawnManager : MonoBehaviour
     [SerializeField] private float xRange;
     [SerializeField] private float zRange;
     [SerializeField] private float xMidRange;
-
-    [SerializeField] private float startDelay = 1.0f;
     [SerializeField] private float spawnInterval= 2.0f;
 
     private float spawnTimer = 0.0f;

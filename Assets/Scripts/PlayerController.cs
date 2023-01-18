@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using UnityEngine;
 
@@ -30,7 +29,6 @@ public class PlayerController : MonoBehaviour
     private void OnFire(InputAction.CallbackContext context)
     {
         isFire = true;
-        audioSource.Play();
     }
 
     private void OnFireCancel(InputAction.CallbackContext context)
@@ -50,6 +48,7 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator FireDelay()
     {
+        audioSource.Play();
         cannotFire = true;
         yield return new WaitForSeconds(fireRate);
         cannotFire = false;

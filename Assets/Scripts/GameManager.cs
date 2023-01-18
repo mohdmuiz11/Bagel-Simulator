@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.EventSystems;
@@ -10,7 +8,6 @@ public class GameManager : MonoBehaviour
     [SerializeField] private float _backSpeed;
     [SerializeField] private EventSystem eventSystem;
     [HideInInspector] public bool isPaused;
-    private MouseLook mouseLook;
     public GameObject gameOverScreen;
     public bool isOver;
     public GameObject[] powerUpPrefab;
@@ -45,16 +42,16 @@ public class GameManager : MonoBehaviour
         coin += cointoAdd;
         coinText.text = "Coins: " + coin;
         if (coin < 0)
-               checkFail();
+               CheckFail();
         
     }
-    public void checkFail()
+    public void CheckFail()
     {       
         SetEndScreen();
         gameOverText.SetActive(true);
     }
 
-    public void gameEnd()
+    public void GameEnd()
     {
         SetEndScreen();
         gameEndText.SetActive(true);
