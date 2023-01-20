@@ -1,3 +1,4 @@
+![bagel-shooter](https://github.com/mohdmuiz11/Bagel-Simulator/blob/main/Assets/Assets/Logo.png?raw=true)
 # Bagel-Simulator
 Bagel Simulator, also known as "Bagel Shooter," is a first-person, stationary shooter game that simulates the process of selling bagels. The player must shoot bagels at pedestrians to gain money, while also learning about potential gains and losses associated with the sale of bagels. The game also aims to discourage food waste.
 
@@ -40,3 +41,12 @@ All 3rd party assets used in this project are subject to Unity's Extension Asset
 Please note that since this project uses HDRP, the game cannot be published to online WebGL platforms. To download and install the game, please visit the [releases section](https://github.com/mohdmuiz11/Bagel-Simulator/releases) on this repository.
 
 For the project's proposal report, please refer to [this document](https://docs.google.com/document/d/1agE4f3HnGTHvrfYDOT275bGPY4eOzRmY/edit?usp=sharing&ouid=102531622528573220978&rtpof=true&sd=true).
+
+### Contributors:
+These are the developers who are responsible to develop this project. Note that the history commits are different as everyone contributes equally as we develop this project in our physical meeting room, developed using @doctorsquare-pog and @AdamQusyairi accounts.
+| GitHub Handle | Name | Role |
+| --- | --- | --- |
+| @doctorsquare-pog | Imran Haqeem | Leader and Asset Finder |
+| @mohdmuiz11 | Mohammad Mu'izzuddin | Programmer and VFX |
+| @AdamQusyairi | Adam Qusyairi | UI Designer |
+| @AbdulHakim1913507 | Abdul Hakim | Assistant Programmer |
