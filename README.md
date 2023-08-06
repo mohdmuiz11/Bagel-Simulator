@@ -43,7 +43,7 @@ Please note that since this project uses HDRP, the game cannot be published to o
 For the project's proposal report, please refer to [this document](https://docs.google.com/document/d/1agE4f3HnGTHvrfYDOT275bGPY4eOzRmY/edit?usp=sharing&ouid=102531622528573220978&rtpof=true&sd=true).
 
 ### Contributors:
-These are the developers who are responsible to develop this project. Note that the history commits are different as everyone contributes equally as we develop this project in our physical meeting room, developed using @doctorsquare-pog and @AdamQusyairi accounts.
+These are the developers who are responsible to develop this project. Note that the history commits are different as everyone contributes equally as we develop this project in our physical meeting room, developed using @doctorsquare-pog and @adxmque accounts.
 | GitHub Handle | Name | Role |
 | --- | --- | --- |
 | @doctorsquare-pog | Imran Haqeem | Leader and Asset Finder |
