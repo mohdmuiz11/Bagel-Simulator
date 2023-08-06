@@ -48,5 +48,5 @@ These are the developers who are responsible to develop this project. Note that 
 | --- | --- | --- |
 | @doctorsquare-pog | Imran Haqeem | Leader and Asset Finder |
 | @mohdmuiz11 | Mohammad Mu'izzuddin | Programmer and VFX |
-| @AdamQusyairi | Adam Qusyairi | UI Designer |
+| @adxmque | Adam Qusyairi | UI Designer |
 | @AbdulHakim1913507 | Abdul Hakim | Assistant Programmer |
